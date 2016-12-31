@@ -1,8 +1,7 @@
-# ABOUTME
-
 # Jethva Minesh
 
 M.Sc. Bioinformatics
+
 Contact: Minesh.1291@Gmail.com
 
 ### Current Position
