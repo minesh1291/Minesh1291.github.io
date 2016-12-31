@@ -29,7 +29,6 @@ Beersheba, Israel.
 
 * Ph.D. project titled "The computational investigation of the cancer immunome" at Ben-Gurion University of the Negev, Beersheba, Israel.	
 
-
 ### Other Projects
 
 * Developing software pipeline for Next Generation Sequence Annotation and Analysis under a DBT-BBSRC sponsored project titled "RICEFUEL: Engineering enzymes, bacteria and bioconversion processes for advanced biofuels from waste grain straw". 
@@ -37,25 +36,28 @@ Beersheba, Israel.
 * RNA-Seq data mining for identification of gene-set for melanoma survival prediction 
 
 * Characterization of Glutaredoxin proteins in Monocots 
+
   Presented at a conference of "3rd International Plant Physiology Congress: Challenges and Strategies in Plant Biology Research" jointly organized by Indian Society for Plant Physiology (ISPP), Jawaharlal Nehru University (JNU) and National Institute of Plant Genome Research (NIPGR) in 2015.	
 
-* Development of Influenza Drug Resistance Database on the basis of Neuraminidase protein icon
+* Development of Influenza Drug Resistance Database on the basis of Neuraminidase protein
+ 
   MSc Dissertation work under the guidance of Dr. Sarah Cherian (Scientist E) at National Institute of Virology, Pune, India in 2014.	
 
 
 * SAR, Pharmacophore and Docking Studies of Aromatase Inhibitors for Therapeutic Application in Post-menopausal Diseases  
+  
   Project was carried out under the guidance of Dr. Ataul Islam at Bharati Vidyapeeth Deemed University , Pune, India and Presented at a conference on "Recent Advances in Computational Drug Design" jointly organized by the Indian Institute of Science (IISc) and Schrodinger in 2013.	
 
 
-Development of alignment specific BLOSUM (BLOck SUbstitution Matrix) generator  
-Project was carried out under the guidance of Mrs. Preeti Chunarkar at Bharati Vidyapeeth Deemed University , Pune, India in 2013.	
+* Development of alignment specific BLOSUM (BLOck SUbstitution Matrix) generator  
+
+  Project was carried out under the guidance of Mrs. Preeti Chunarkar at Bharati Vidyapeeth Deemed University , Pune, India in 2013.	
 
 
-Development of ORF finder and Translational Tool 
-BSc Dissertation work carried out under the guidance of Mrs. Pratibha Chaurasia at Sardar Patel University , Vallabh Vidhyanagar, Gujarat, India in 2012.	
+* Development of ORF finder and Translational Tool 
+  
+  BSc Dissertation work carried out under the guidance of Mrs. Pratibha Chaurasia at Sardar Patel University , Vallabh Vidhyanagar, Gujarat, India in 2012.	
 
-
-Reconstruction of Metabolic Network from Bacterial Genome Annotation
-
+* Reconstruction of Metabolic Network from Bacterial Genome Annotation
 
 Last updated on: 23rd May, 2016.
