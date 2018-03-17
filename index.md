@@ -2,7 +2,7 @@
 
 M.Sc. Bioinformatics
 
-Contact: Minesh.1291@Gmail.com
+Contact: minesh.1291@gmail.com
 
 ### Current Position
 
