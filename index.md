@@ -15,7 +15,7 @@ Beersheba, Israel.
 * High Throughput Sequence Analysis
 * Systems Biology
 * Data Mining using Machine Learning Techniques
-* Algorithm Designing
+* Problem Solving and Algorithm Designing
 * Information Visualization
 
 ### Publication
