@@ -1,4 +1,5 @@
-# Jethva Minesh
+# Jethva Minesh 
+Last updated on: 23rd May, 2016.
 
 M.Sc. Bioinformatics
 
@@ -59,4 +60,4 @@ Beersheba, Israel.
 
 * Reconstruction of Metabolic Network from Bacterial Genome Annotation
 
-Last updated on: 23rd May, 2016.
+
