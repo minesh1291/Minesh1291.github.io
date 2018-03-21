@@ -1,4 +1,4 @@
-# Jethva Minesh 
+<!-- # Jethva Minesh -->
 Last updated on: 23rd May, 2016.
 
 M.Sc. Bioinformatics
