@@ -21,9 +21,11 @@ Beersheba, Israel.
 
 ### Publication
 
-* Singh, A., Jethva, M., Singla-Pareek, S. L., Pareek, A., & Kushwaha, H. R. (2016). Analyses of Old "Prokaryotic" Proteins Indicate Functional Diversification in Arabidopsis and Oryza sativa. Frontiers in Plant Science, 7. 
+* Singh, P., Kumar, N., <b>Jethva, M.</b>, Yadav, S., Kumari, P., Thakur, A., & Kushwaha, H. R. (2018). Riboswitch regulation in cyanobacteria is independent of their habitat adaptations. Physiology and Molecular Biology of Plants, 24(2), 315-324.
 
-* Samant, M., Jethva, M., & Hasija, Y. (2015). INTERACT-O-FINDER: A Tool for Prediction of DNA-Binding Proteins Using Sequence Features . International Journal of Peptide Research and Therapeutics, 21(2), 189-193. 
+* Singh, A., <b>Jethva, M.</b>, Singla-Pareek, S. L., Pareek, A., & Kushwaha, H. R. (2016). Analyses of Old "Prokaryotic" Proteins Indicate Functional Diversification in Arabidopsis and Oryza sativa. Frontiers in Plant Science, 7. 
+
+* Samant, M., <b>Jethva, M.</b>, & Hasija, Y. (2015). INTERACT-O-FINDER: A Tool for Prediction of DNA-Binding Proteins Using Sequence Features . International Journal of Peptide Research and Therapeutics, 21(2), 189-193. 
 
 ### Current Project
 
