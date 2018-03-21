@@ -1,3 +1,7 @@
 theme: jekyll-theme-architect
+
 title: Jethva A. Minesh 
 description: Ph.D. Bioinformatics, Data Science and Cancer Immuno-Genomics Researcher
+
+# Google Analytics
+google_analytics: UA-116218531-1
