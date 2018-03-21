@@ -1,12 +1,13 @@
 <!-- # Jethva Minesh -->
-
-![Minesh](https://avatars2.githubusercontent.com/u/6646693?s=400&u=f21e73b0f55d4ddb7931ee7b8a30d28283193e74&v=4)
+<p>
+<img src="https://i1.rgstatic.net/ii/profile.image/427134570242050-1478848225155_Q128/Minesh_Jethva2.jpg" height=200 align="right">
 
 Last updated on: 23rd May, 2016.
 
 M.Sc. Bioinformatics
 
 Contact: minesh.1291@gmail.com
+</p>
 
 ## Current Position
 
