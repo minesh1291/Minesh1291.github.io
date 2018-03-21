@@ -5,21 +5,20 @@ M.Sc. Bioinformatics
 
 Contact: minesh.1291@gmail.com
 
-### Current Position
+## Current Position
 
 Bioinformatics Doctoral Fellow,
 Ben-Gurion University of the Negev,
 Beersheba, Israel. 
  
-### Research Interests 
+## Research Interests 
 
-* High Throughput Sequence Analysis
-* Systems Biology
+* Genomics, Transcriptomics, Systems Biology
 * Data Mining using Machine Learning Techniques
 * Problem Solving and Algorithm Designing
 * Information Visualization
 
-### Publication
+## Publications
 
 * Singh, P., Kumar, N., <b>Jethva, M.</b>, Yadav, S., Kumari, P., Thakur, A., & Kushwaha, H. R. (2018). Riboswitch regulation in cyanobacteria is independent of their habitat adaptations. Physiology and Molecular Biology of Plants, 24(2), 315-324.
 
@@ -27,9 +26,16 @@ Beersheba, Israel.
 
 * Samant, M., <b>Jethva, M.</b>, & Hasija, Y. (2015). INTERACT-O-FINDER: A Tool for Prediction of DNA-Binding Proteins Using Sequence Features . International Journal of Peptide Research and Therapeutics, 21(2), 189-193. 
 
-### Current Project
+## Current Project
 
 * Ph.D. project titled "The computational investigation of the cancer immunome" at Ben-Gurion University of the Negev, Beersheba, Israel.	
+
+### Major Goals
+
+* The development of novel expression normalization method to help investigate immune system in tumor biopsies,
+* To study of the escape mechanisms in presence of immunogenic mutation
+* Patient stratification by immune response/dysregulation markers or overall immune profiling 
+* Identification of isoform switches and its mechanism in tumor development.
 
 ### Other Projects
 
