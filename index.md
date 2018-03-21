@@ -1,6 +1,7 @@
 <!-- # Jethva Minesh -->
 <p>
-<img src="https://i1.rgstatic.net/ii/profile.image/427134570242050-1478848225155_Q128/Minesh_Jethva2.jpg" height=200 align="right">
+ <div>
+<img src="https://i1.rgstatic.net/ii/profile.image/427134570242050-1478848225155_Q128/Minesh_Jethva2.jpg" height=200 align="right"> </div>
 
 Last updated on: 23rd May, 2016.
 
