@@ -37,11 +37,9 @@ Beersheba, Israel.
 * Patient stratification by immune response/dysregulation markers or overall immune profiling 
 * Identification of isoform switches and its mechanism in tumor development.
 
-### Other Projects
+## Other Projects
 
 * Developing software pipeline for Next Generation Sequence Annotation and Analysis under a DBT-BBSRC sponsored project titled "RICEFUEL: Engineering enzymes, bacteria and bioconversion processes for advanced biofuels from waste grain straw". 
-
-* RNA-Seq data mining for identification of gene-set for melanoma survival prediction 
 
 * Characterization of Glutaredoxin proteins in Monocots 
 
