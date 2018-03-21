@@ -1,4 +1,7 @@
 <!-- # Jethva Minesh -->
+
+<IMG SRC="https://avatars0.githubusercontent.com/u/6646693?s=460&v=4" ALIGN=”left” HSPACE=”50” VSPACE=”50” height=200/> 
+
 Last updated on: 23rd May, 2016.
 
 M.Sc. Bioinformatics
