@@ -1,6 +1,6 @@
 <!-- # Jethva Minesh -->
 
-<IMG SRC="https://avatars0.githubusercontent.com/u/6646693?s=460&v=4" ALIGN=”left” HSPACE=”50” VSPACE=”50” height=200/> 
+<div style="text-align:center"><img src ="https://avatars2.githubusercontent.com/u/6646693?s=400&u=f21e73b0f55d4ddb7931ee7b8a30d28283193e74&v=4" height = 200/></div>
 
 Last updated on: 23rd May, 2016.
 
