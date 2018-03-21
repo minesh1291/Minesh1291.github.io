@@ -1,6 +1,6 @@
 <!-- # Jethva Minesh -->
 
-<div style="text-align:center"><img src ="https://avatars2.githubusercontent.com/u/6646693?s=400&u=f21e73b0f55d4ddb7931ee7b8a30d28283193e74&v=4" height = 200/></div>
+![Minesh](https://avatars2.githubusercontent.com/u/6646693?s=400&u=f21e73b0f55d4ddb7931ee7b8a30d28283193e74&v=4)
 
 Last updated on: 23rd May, 2016.
 
