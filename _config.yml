@@ -10,3 +10,8 @@ webrick:
   headers:
     My-Header: My-Value
     My-Other-Header: My-Other-Value
+
+includes_dir:    _includes
+collections:
+  posts:
+    output:   true
