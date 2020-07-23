@@ -3,9 +3,7 @@
 
 Last updated on: 23rd july, 2020.
 
-M.Sc. Bioinformatics
-
-Contact: minesh.1291@gmail.com
+Contact: minesh.1291@gmail.com, [LinkedIn](https://www.linkedin.com/in/mineshjethva/), [Kaggle](https://www.kaggle.com/mineshjethva), [Github](https://github.com/minesh1291)
 
 <p style='text-align: justify;'>
 Data Scientist, machine learning engineer, with extensive experience with developing algorithms, statistical models and deep learning architectures using Python in a Big Data environment. Currently working as a Data Scientist with TimeSeries (IoT) domain, design machine learning experiments and developing efficient sequence models for Time-Series segmentation and classification. I have 4+ yrs. experience with Data Science & AI challenges and 6 yrs. research experience with Computational Biology.
@@ -20,7 +18,7 @@ Data Scientist, machine learning engineer, with extensive experience with develo
 By nationality I am an Indian and will need to be sponsored for work permit in other countries
 
 
-### Past Positions
+### Experiances
 
 ## Senior Data Scientist
 <pre>
@@ -93,16 +91,16 @@ NIV is one of the World Health Organization(WHO) collaborating center for arbovi
 
 - Samant, M., <b>Jethva, M.</b>, & Hasija, Y. (2015). INTERACT-O-FINDER: A Tool for Prediction of DNA-Binding Proteins Using Sequence Features . International Journal of Peptide Research and Therapeutics, 21(2), 189-193. 
 
-## Past Projects
+### Projects
 
-* Ph.D. project titled "The computational investigation of the cancer immunome" at Ben-Gurion University of the Negev, Beersheba, Israel.	
+## The computational investigation of the cancer immunome
+* Ph.D. project at Ben-Gurion University of the Negev, Beersheba, Israel.	
 
 **Major Goals**
-
-* The development of novel expression normalization method to help investigate immune system in tumor biopsies,
-* To study of the escape mechanisms in presence of immunogenic mutation
-* Patient stratification by immune response/dysregulation markers or overall immune profiling 
-* Identification of isoform switches and its mechanism in tumor development.
+- The development of novel expression normalization method to help investigate immune system in tumor biopsies,
+- To study of the escape mechanisms in presence of immunogenic mutation
+- Patient stratification by immune response/dysregulation markers or overall immune profiling 
+- Identification of isoform switches and its mechanism in tumor development.
 
 ## Other Projects
 
