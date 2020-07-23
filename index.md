@@ -72,9 +72,8 @@ NIV is one of the World Health Organization(WHO) collaborating center for arbovi
   - Digital Signal Processing, Audio Processing, Computer Vision - Image Processing
   - Genomics, Transcriptomics, Systems Biology
 - Descrete Optimization for Operation Research
-- Data Mining
-- Machine Learning
-- Deep Learning
+- Data Science, Artificial Intelligence, Data Mining
+- Machine Learning, Deep Learning
 - Problem Solving and Algorithm Designing
 - Visualization & Story Telling
 
@@ -93,7 +92,7 @@ NIV is one of the World Health Organization(WHO) collaborating center for arbovi
 
 ### Projects
 
-## The computational investigation of the cancer immunome
+## The Computational Investigation of the Cancer Immunome
 * Ph.D. project at Ben-Gurion University of the Negev, Beersheba, Israel.	
 
 **Major Goals**
